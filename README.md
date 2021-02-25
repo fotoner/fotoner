@@ -15,7 +15,7 @@
 * Machine Learning: NLP, DNN
 * Modern JS (ECMAScript, TypeScript)
 * Docker, Docker Compose
-* Netword Infra
+* Network Infra
 * Go lang
 * 765 Theater 🥰
 
