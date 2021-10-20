@@ -17,4 +17,3 @@
 * Docker, Docker Compose
 * Network Infra
 * Go lang
-* 765 Theater 🥰
