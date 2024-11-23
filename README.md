@@ -14,7 +14,7 @@
 * (Real) Language: 한국어/日本語/ENG 
 * Language: JS/TS, Java, Python
 * Front-End: React, Vue
-* Back-End: FastAPI(🐍), Spring Boot, Oracle
+* Back-End: Spring Boot, FastAPI, Oracle
 
 ### Interest & Studying
 * Modern JS (ECMAScript, TypeScript)
