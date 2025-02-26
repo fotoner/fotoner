@@ -9,8 +9,6 @@
 
 ### Main Skills
 
-<img align="right" src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000433.9376ab759a464127a14487c2a9e0155b.1733"></a>
-
 * (Real) Language: 한국어/日本語/ENG 
 * Language: JS/TS, Java, Python
 * Front-End: React, Vue
@@ -20,5 +18,5 @@
 * Modern JS (ECMAScript, TypeScript)
 * PS(with JS)
 * Docker & k8s
-* Machine Learning
+* Machine Learning,LLM
 * Network Infra
