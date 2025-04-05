@@ -4,8 +4,9 @@
    
 ### It's me
 * Full-Stack Web developer
-* 4 years Web Dev experience
+* 3 years Web Dev experience
 * Currently working as a SW engineer on R.O.K government
+* Software Maestro 16th 
 
 ### Main Skills
 
