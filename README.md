@@ -16,7 +16,7 @@
 
 ## 💼 Current Projects
 
-### 🌸 [Kanata](https://github.com/fotoner/kanata) - AI 캐릭터 일본어 회화 서비스
+### 🌸 [Kanata](https://landing.kanata.live/) - AI 캐릭터 일본어 회화 서비스
 > **소프트웨어 마에스트로 16기 프로젝트 · 팀장 (3인 팀)**
 
 - 🎯 **런칭 2개월 만에 가입자 1,600명, 평균 WAU 560명 달성**
