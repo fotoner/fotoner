@@ -68,7 +68,7 @@ const fotone = {
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white)](https://resume.fotone.moe/)
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@fotoner)
+[![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://fotoner.github.io)
 
 <a href="https://solved.ac/profile/million_theater">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=million_theater" alt="Solved.ac Profile">
