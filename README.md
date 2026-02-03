@@ -1,28 +1,18 @@
-# 👋 Say my name
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=남현재%20|%20Fotone&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Product%20Engineer%20·%20Subculture%20Lover%20·%20Anisong%20DJ&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=남현재%20|%20Fotone&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Product%20Engineer&descAlignY=55&descAlign=50)
 
-<a href="https://solved.ac/profile/million_theater">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=million_theater" alt="Solved.ac Profile">
-</a>
 
 </div>
 
----
-
-## 🚀 About Me
+## 👋 Say my name
 
 **"필요하면 만들고, 데이터를 보고 빠르게 개선하는 프로덕트 엔지니어"**
 
 - 🎓 **Software Maestro 16th** (2025.06 ~ 2025.12)
-- 🎖️ **R.O.K Air Force** 학사장교 중위 전역 (2022.06 ~ 2025.05)
-- 🎵 **Anisong DJ** - 서브컬처를 사랑하는 오타쿠 개발자
-- 🇯🇵 **일본어 학습자** - JLPT N2 수준, 학원마스 광팬
+- 🎖️ **R.O.K Air Force** 학사장교 중위 전역 - 체계단, 군수전산소 근무 (2022.06 ~ 2025.05)
 - 📍 **Seoul, South Korea**
-
----
 
 ## 💼 Current Projects
 
@@ -30,12 +20,8 @@
 > **소프트웨어 마에스트로 16기 프로젝트 · 팀장 (3인 팀)**
 
 - 🎯 **런칭 2개월 만에 가입자 1,600명, 평균 WAU 560명 달성**
-- 🎭 Live2D 캐릭터 + WebRTC 실시간 음성 대화
-- 📉 메모리 최적화로 40% 사용량 절감
-- 📈 PTT 도입으로 발화량 54% 증가
+- 🎭 Live2D 캐릭터 + Livekit 기반 WebRTC 실시간 음성 대화
 - 🛠️ **Tech Stack**: React Native, TypeScript, LiveKit, Live2D, Zustand, React Query
-
----
 
 ## 🛠️ Tech Stack
 
@@ -65,32 +51,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Fotone's GitHub stats](https://github-readme-stats.vercel.app/api?username=fotoner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fotoner&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fotoner&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Key Achievements
-
-- 🥇 **공군 전군 사이버작전 전문 교육 최우수 수료** (2023.06)
-- 🥈 **SW중심대학 대경권 프로그래밍경진대회 장려상** (2020.05, 2019.05)
-- 🎯 **NH 투자증권 빅데이터 경진대회 본선 진출** (상위 44개팀, 2020.11)
-- 📜 **정보처리기사** (2020.12)
-- 📜 **SQLD** (2024.09)
-
----
-
 ## 💡 What I Love
 
 ```typescript
@@ -103,24 +63,22 @@ const fotone = {
 };
 ```
 
----
-
 ## 📫 Contact & Links
 
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white)](https://resume.fotone.moe/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fotoner-dev@kakao.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fotoner)
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@fotoner)
+
+<a href="https://solved.ac/profile/million_theater">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=million_theater" alt="Solved.ac Profile">
+</a>
+
 
 </div>
 
----
 
 <div align="center">
-
-### 🎵 "좋아하는 것을 기술로 만든다" 🎵
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
