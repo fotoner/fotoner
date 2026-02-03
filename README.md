@@ -57,7 +57,7 @@
 const fotone = {
   identity: "프로덕트 엔지니어",
   motto: "필요하면 만들고, 데이터를 보고 빠르게 개선한다",
-  loves: ["애니메이션", "J-POP", "애니송 DJ", "코스프레", "보드게임", "학원 아이돌 마스터"],
+  loves: ["애니메이션", "J-POP", "보드게임", "학원 아이돌 마스터"],
   currentlyLearning: ["LLM Integration", "Agentic Coding", "React Native Optimization"],
   techPhilosophy: "기술적으로 잘 만드는 것만큼, 실제 사람들이 쓰는 서비스를 만드는 게 중요하다"
 };
