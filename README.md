@@ -14,15 +14,6 @@
 - 🎖️ **R.O.K Air Force** 학사장교 중위 전역 - 체계단, 군수전산소 근무 (2022.06 ~ 2025.05)
 - 📍 **Seoul, South Korea**
 
-## 💼 Current Projects
-
-### 🌸 [Kanata](https://landing.kanata.live/) - AI 캐릭터 일본어 회화 서비스
-> **소프트웨어 마에스트로 16기 프로젝트 · 팀장 (3인 팀)**
-
-- 🎯 **런칭 2개월 만에 가입자 1,600명, 평균 WAU 560명 달성**
-- 🎭 Live2D 캐릭터 + Livekit 기반 WebRTC 실시간 음성 대화
-- 🛠️ **Tech Stack**: React Native, TypeScript, LiveKit, Live2D, Zustand, React Query
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
