@@ -1,76 +1,17 @@
+### 남현재 · Fotone
 
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=남현재%20|%20Fotone&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Product%20Engineer&descAlignY=55&descAlign=50)
+직접 겪어본 문제를 제품으로 만드는 프로덕트 엔지니어입니다.
 
+**지금 하고 있는 것**
 
-</div>
+- 공군 장교 출신으로, [Goondori](https://goondori.com)에서 군생활 관리 플랫폼을 만들고 있습니다
+- [DJ](https://fotoner.github.io/etc/anisong-dj-guide/)로 활동하며 직접 쓸 라이브러리 관리 macOS 앱 [DJCrate](https://github.com/fotoner/DJCrate)를 만들고 있습니다
+- X의 유료 파란 뱃지 계정을 숨기는 확장 [blue-badge-remover](https://github.com/fotoner/blue-badge-remover)를 운영하고 있습니다 (Chrome 사용자 3,000명+)
 
-## 👋 Say my name
+**관심사** — 모바일 앱 경험 · 성능 최적화 · 음악과 오디오 도구 · AI 기반 개발 생산성
 
-**"필요하면 만들고, 데이터를 보고 빠르게 개선하는 프로덕트 엔지니어"**
-
-- 🎓 **Software Maestro 16th** (2025.06 ~ 2025.12)
-- 🎖️ **R.O.K Air Force** 학사장교 중위 전역 - 체계단, 군수전산소 근무 (2022.06 ~ 2025.05)
-- 📍 **Seoul, South Korea**
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## 💡 What I Love
-
-```typescript
-const fotone = {
-  identity: "프로덕트 엔지니어",
-  motto: "필요하면 만들고, 데이터를 보고 빠르게 개선한다",
-  loves: ["애니메이션", "J-POP", "보드게임", "학원 아이돌 마스터"],
-  currentlyLearning: ["LLM Integration", "Agentic Coding", "React Native Optimization"],
-  techPhilosophy: "기술적으로 잘 만드는 것만큼, 실제 사람들이 쓰는 서비스를 만드는 게 중요하다"
-};
-```
-
-## 📫 Contact & Links
-
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white)](https://resume.fotone.moe/)
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://fotoner.github.io)
-
-<a href="https://solved.ac/profile/million_theater">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=million_theater" alt="Solved.ac Profile">
-</a>
-
-
-</div>
-
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-
-</div>
+<samp>
+<a href="https://resume.fotone.moe">resume</a> ·
+<a href="https://fotoner.github.io">blog</a> ·
+<a href="https://solved.ac/profile/million_theater">solved.ac</a>
+</samp>
