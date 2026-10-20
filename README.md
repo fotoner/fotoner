@@ -11,7 +11,6 @@
 **관심사** — 모바일 앱 경험 · 성능 최적화 · 음악과 오디오 도구 · AI 기반 개발 생산성
 
 <samp>
-<a href="https://resume.fotone.moe">resume</a> ·
 <a href="https://fotoner.github.io">blog</a> ·
 <a href="https://solved.ac/profile/million_theater">solved.ac</a>
 </samp>
